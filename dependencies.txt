@@ -1,4 +1,5 @@
 com.code-philosophy.hybridclr@6.9.0
+com.cysharp.unitask@2.5.10
 com.esotericsoftware.spine.spine-csharp@4.2.31
 com.esotericsoftware.spine.spine-unity@4.2.88
 com.esotericsoftware.spine.urp-shaders@4.2.38
